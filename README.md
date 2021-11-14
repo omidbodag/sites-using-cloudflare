@@ -194,6 +194,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [alfavita.gr](http://alfavita.gr)
 - [alhilal.com](http://alhilal.com)
 - [alison.com](http://alison.com)
+- [maghzrayaneh.com](http://maghzrayaneh.com/)
 - [alistapart.com](http://alistapart.com)
 - [aljaras.com](http://aljaras.com)
 - [allanalpass.com](http://allanalpass.com)
